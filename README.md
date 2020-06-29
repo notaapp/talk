@@ -1,2 +1,1 @@
-# issues
-Issue tracker of Nota.
+Issue tracker of the writing app, [Nota](https://nota.md/).
