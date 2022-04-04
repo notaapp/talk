@@ -1,4 +1,4 @@
-Issues and discussions for the writing app, [Nota](https://nota.md/).
+Issues and discussions for the notes app, [Nota](https://nota.md/).
 
 How to use this repo:
 
